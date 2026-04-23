@@ -1,6 +1,6 @@
 package com.example.maps.data
 
-// Esta clase representa el JSON completo que responde la API para usarlo
+// Esta clase representa el JSON completo que responde la API
 data class RouteResponse(
     val routes: List<Route>
 )
